@@ -1,0 +1,2 @@
+# ServiceNow-GlideAjax-Script
+GlideAjax 
